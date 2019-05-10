@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">PenilaianTA</string>
+    <string name="nilai_prompt">Masukkan Nilai</string>
+    <string name="nilai_perhitungan">Nilai Perhitungan</string>
+    <string name="nilai_akhir">Nilai Akhir</string>
+    <string name="pembimbing1">Pembimbing 1</string>
+    <string name="pembimbing2">Pembimbing 2</string>
+    <string name="penguji1">Penguji 1</string>
+    <string name="penguji2">Penguji 2</string>
+    <string name="total">Total dan Index</string>
+    <string name="ket_clo_1"><b>Komponen:</b>\nKemampuan Analisis, Sistematika dan Tata Bahasa,
+        Perancangan dan Pengerjaan TA</string>
+    <string name="ket_clo_2"><b>Komponen:</b>\nBahasa dan Penyampaian, Penggunaan Media dan Materi, Interpersonal Skills</string>
+    <string name="ket_clo_3"><b>Komponen:</b>\nPerangkat Lunak / Purwarupa / Model / Dokumen</string>
+    <string name="clo_1"><b> <i>CLO 1</i> </b> \nMampu membuat karya tulis ilmiah yang mengkaji
+        atau menerapkan konsep ilmu pengetahuan/teknologi bidang <i>computing</i> berdasarkan kaidah,
+        tata cara dan etika ilmiah</string>
+    <string name="clo_2"><b> <i>CLO 2</i> </b>\nMampu mengkomunikasikan dan berargumen secara lisan
+        terkait solusi/gagasan/desain hasil kajian ilmu pengetahuan/teknologi bidang <i>computing</i></string>
+    <string name="clo_3"><b> <i>CLO 3</i> </b>\nMampu membuat produk/purwarupa/model yang mengkaji
+        atau menerapkan ilmu pengetahuan/teknologi bidang <i>computing</i> untuk menghasilkan solusi dari
+        suatu permasalahan.</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="prev">Prev</string>
+    <string name="copyright">Copyright © ADF - 2018</string>
+    <string name="deadline">Deadline:</string>
+    <string-array name="nilai">
+        <item>&#8230;</item>
+        <item>A</item>
+        <item>AB</item>
+        <item>B</item>
+        <item>BC</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+    </string-array>
+</resources>
